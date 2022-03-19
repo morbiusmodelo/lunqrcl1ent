@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[!Yyoutube](./img/youtube-light.svg)](https://www.youtube.com/channel/UCqvK4HeVNAmes0vAcbZ9BPw#gh-light-mode-only)
+[![Youtube](./img/youtube-light.svg)](https://www.youtube.com/channel/UCqvK4HeVNAmes0vAcbZ9BPw#gh-light-mode-only)
 [![Youtube](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCqvK4HeVNAmes0vAcbZ9BPw#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![Twitter](./img/twitter-light.svg)](https://twitter.com/lunqrcl1ent#gh-light-mode-only)
