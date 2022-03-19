@@ -13,17 +13,17 @@
 
 ### Connect with me:
 
-[![youtube](./img/youtube-light.svg)](https://www.youtube.com/channel/UCqvK4HeVNAmes0vAcbZ9BPw#gh-light-mode-only)
-[![youtube](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCqvK4HeVNAmes0vAcbZ9BPw#gh-dark-mode-only)
+[!Yyoutube](./img/youtube-light.svg)](https://www.youtube.com/channel/UCqvK4HeVNAmes0vAcbZ9BPw#gh-light-mode-only)
+[![Youtube](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCqvK4HeVNAmes0vAcbZ9BPw#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![twitter](./img/twitter-light.svg)](https://twitter.com/lunqrcl1ent#gh-light-mode-only)
-[![twitter](./img/twitter-dark.svg)](https://twitter.com/lunqrcl1ent#gh-dark-mode-only)
+[![Twitter](./img/twitter-light.svg)](https://twitter.com/lunqrcl1ent#gh-light-mode-only)
+[![Twitter](./img/twitter-dark.svg)](https://twitter.com/lunqrcl1ent#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![Discord](./img/tiktok-dark.svg)](https://discord.gg/fzWsss3rgk#gh-dark-mode-only)
 [![Discord](./img/tiktok-dark.svg)](https://discord.gg/fzWsss3rgk#gh-light-mode-only)
 &nbsp;&nbsp;
-[![instagram](./img/instagram-light.svg)](https://www.instagram.com/integralen_gevrek/#gh-light-mode-only)
-[![instagram](./img/instagram-dark.svg)](https://www.instagram.com/integralen_gevrek/r#gh-dark-mode-only)
+[![Instagram](./img/instagram-light.svg)](https://www.instagram.com/integralen_gevrek/#gh-light-mode-only)
+[![Instagram](./img/instagram-dark.svg)](https://www.instagram.com/integralen_gevrek/r#gh-dark-mode-only)
 
 ### Languages and Tools(videos/tools by codeSTACKr):
 
