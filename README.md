@@ -13,16 +13,16 @@
 
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCqvK4HeVNAmes0vAcbZ9BPw#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCqvK4HeVNAmes0vAcbZ9BPw#gh-dark-mode-only)
+[![youtube](./img/youtube-light.svg)](https://www.youtube.com/channel/UCqvK4HeVNAmes0vAcbZ9BPw#gh-light-mode-only)
+[![youtube](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCqvK4HeVNAmes0vAcbZ9BPw#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/lunqrcl1ent#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/lunqrcl1ent#gh-dark-mode-only)
+[![twitter](./img/twitter-light.svg)](https://twitter.com/lunqrcl1ent#gh-light-mode-only)
+[![twitter](./img/twitter-dark.svg)](https://twitter.com/lunqrcl1ent#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/tiktok-dark.svg)](https://www.tiktok.com/@lunqrcl1ent?lang=en#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/integralen_gevrek/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/integralen_gevrek/r#gh-dark-mode-only)
+[![instagram](./img/instagram-light.svg)](https://www.instagram.com/integralen_gevrek/#gh-light-mode-only)
+[![instagram](./img/instagram-dark.svg)](https://www.instagram.com/integralen_gevrek/r#gh-dark-mode-only)
 
 ### Languages and Tools(videos/tools by codeSTACKr):
 
@@ -68,4 +68,3 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-
