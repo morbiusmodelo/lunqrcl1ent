@@ -19,8 +19,8 @@
 [![Twitter](./img/twitter-light.svg)](https://twitter.com/lunqrcl1ent#gh-light-mode-only)
 [![Twitter](./img/twitter-dark.svg)](https://twitter.com/lunqrcl1ent#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![Discord](./img/tiktok-dark.svg)](https://discord.gg/fzWsss3rgk#gh-dark-mode-only)
-[![Discord](./img/tiktok-dark.svg)](https://discord.gg/fzWsss3rgk#gh-light-mode-only)
+[![Discord](./img/icons8-discord.svg)](https://discord.gg/fzWsss3rgk#gh-dark-mode-only)
+[![Discord](./img/icons8-discord.svg)](https://discord.gg/fzWsss3rgk#gh-light-mode-only)
 &nbsp;&nbsp;
 [![Instagram](./img/instagram-light.svg)](https://www.instagram.com/integralen_gevrek/#gh-light-mode-only)
 [![Instagram](./img/instagram-dark.svg)](https://www.instagram.com/integralen_gevrek/r#gh-dark-mode-only)
