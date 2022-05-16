@@ -7,7 +7,6 @@
 ## I'm a 12 yr old trying out github/coding
 
 - 🌱 I’m currently learning everything 
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Try to code something myself :)
 - ⚡ Fun fact: I still haven't got a girl :(
 - 😔 Also for some reason the discord svg is bugged so u may not see it on light mode github :(
