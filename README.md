@@ -1,4 +1,4 @@
-# Hi there, I'm Niki - aka [Lunqr][youtube] 👋 
+# Hi there, I'm Niki - aka [MorbiusModelO][youtube] 👋 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCqvK4HeVNAmes0vAcbZ9BPw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Twitter Follow](https://img.shields.io/twitter/follow/lunqrcl1ent?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flunqrcl1ent&screen_name=lunqrcl1ent)
